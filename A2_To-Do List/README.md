@@ -1,4 +1,4 @@
-# assignment 2
+# Assignment 2
 Develop a React To-Do List component allowing task addition, removal, and completion marking. Validate task input, display tasks dynamically, and offer optional sorting, filtering, and localStorage integration. Submit code on Git with brief testing guidance.
 -------------------------------------------------------------
 node_modules is deleted for sizing issue
