@@ -9,33 +9,30 @@ Ensure seamless navigation and smooth user experience.
 # Admin Email - rejanasim611@gmail.com
 
 Signup ->
-![alt text](image-12.png)
+![image](https://github.com/user-attachments/assets/8e12b0fd-1b6a-46a8-bfc2-693781b0fd5d)
 Login ->
-![alt text](image-13.png)
-
+![image](https://github.com/user-attachments/assets/a0cdae07-5000-4a8d-b372-17a608862b99)
 navebar-> 
-![alt text](image.png), ![alt text](image-1.png)
-
+![image](https://github.com/user-attachments/assets/111120d2-8177-466d-9d0d-304a2f350ed1)
+![image](https://github.com/user-attachments/assets/22be27d7-a9e7-4d8e-a399-22cddb835575)
 Banner ->
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/e25bf7db-884c-4219-bea0-05f6258d86d2)
 
 Filter ->
-![alt text](image-4.png)
-![alt text](image-5.png)
-
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/f233ffb3-2d51-488c-b2cb-dbb67630f87c)
+![image](https://github.com/user-attachments/assets/d9615d7d-e7fd-4bba-8e0a-cb6fe4ea47c6)
+![image](https://github.com/user-attachments/assets/9acac7e3-fdb4-4981-b2a1-3417618d3324)
 
 Footer ->
 ![alt text](image-6.png)
 
 Info->
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/bcd387b6-f45b-4059-aee8-ec31fc2f17a8)
 
 Dashboard ->
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/748cb7e6-41bb-44b8-bb2a-12a39753a84f)
 
 Buy Now ->
-![alt text](image-9.png)
-![alt text](image-10.png)
+![image](https://github.com/user-attachments/assets/33759965-ffc8-4565-8dd6-11f07b43b878)
+![image](https://github.com/user-attachments/assets/516bc48b-5c70-43ac-847e-4d2915a79f5c)
 
-![alt text](image-11.png)
